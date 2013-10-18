@@ -1,0 +1,17 @@
+{
+  "name": "highcharts",
+  "version": "3.0.6",
+  "authors": [
+    "Stanley Gu <stanleygu@gmail.com>"
+  ],
+  "description": "Bower package for highcharts",
+  "main": "highcharts.src.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
